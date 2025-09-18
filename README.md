@@ -1,7 +1,8 @@
 # challenge-amigo-secreto
 Aplicación web sencilla en JavaScript que permite agregar nombres a una lista y realizar un sorteo aleatorio para determinar el "amigo secreto".  
 <hr>
-## 📌 Fucionalidades:
+## 📌 Funcionalidad
+
 **Agregar nombres:** Los usuarios escribirán el nombre de un amigo en el campo de texto y lo agregarán a una lista visible al hacer clic en "Adicionar".  
 
 ![Captura del juego](./assets/agregar-amigo.png)  
